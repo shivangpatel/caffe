@@ -5,8 +5,8 @@ clc; clear;
 
 %% AD & NC DATA SET
 
-load AD_64x45x256x72matlab.mat
-load NC_64x45x256x149matlab.mat
+load AD_64x45x18432matlab.mat
+load NC_64x45x38144matlab.mat
 
 clear filenames full_name i idx image_folder img imgNII name nn outVolume total_images
 
