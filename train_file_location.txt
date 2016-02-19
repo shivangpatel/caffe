@@ -1,0 +1,1 @@
+/home/shivangpatel/caffe/brainMRI1/train.hdf5
